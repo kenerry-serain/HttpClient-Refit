@@ -46,11 +46,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/NetHttp.WebAPI/Startup.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="365">
-              <caret line="36" column="62" selection-start-line="36" selection-start-column="55" selection-end-line="36" selection-end-column="62" />
+            <state relative-caret-position="327">
+              <caret line="46" column="21" lean-forward="true" selection-start-line="46" selection-start-column="21" selection-end-line="46" selection-end-column="21" />
               <folding>
                 <marker date="1541838631993" expanded="true" signature="6:559" ph="..." />
                 <marker date="1541838631993" expanded="true" signature="585:2372" ph="{...}" />
@@ -83,29 +83,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/NetHttp.WebAPI/Controllers/ProductController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="262">
-              <caret line="28" column="31" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
+            <state relative-caret-position="1535">
+              <caret line="115" column="36" lean-forward="true" selection-start-line="115" selection-start-column="36" selection-end-line="115" selection-end-column="36" />
               <folding>
-                <marker date="1541838883500" expanded="true" signature="6:171" ph="..." />
-                <marker date="1541838883500" expanded="true" signature="209:3887" ph="{...}" />
-                <marker date="1541838883500" expanded="true" signature="315:3885" ph="{...}" />
-                <marker date="1541838883500" expanded="true" signature="499:563" ph="{...}" />
-                <marker date="1541838883500" expanded="true" signature="573:673" ph="/// Select all products ... " />
-                <marker date="1541838883500" expanded="true" signature="813:1069" ph="{...}" />
-                <marker date="1541838883500" expanded="true" signature="943:1026" ph="{...}" />
-                <marker date="1541838883500" expanded="true" signature="1079:1221" ph="/// Select a single product ... " />
-                <marker date="1541838883500" expanded="true" signature="1461:1838" ph="{...}" />
-                <marker date="1541838883500" expanded="true" signature="1724:1796" ph="{...}" />
-                <marker date="1541838883500" expanded="true" signature="1848:1996" ph="/// Creates a single product ... " />
-                <marker date="1541838883500" expanded="true" signature="2129:2289" ph="{...}" />
-                <marker date="1541838883500" expanded="true" signature="2299:2485" ph="/// Updates a single product ... " />
-                <marker date="1541838883500" expanded="true" signature="2734:3153" ph="{...}" />
-                <marker date="1541838883500" expanded="true" signature="3026:3111" ph="{...}" />
-                <marker date="1541838883500" expanded="true" signature="3164:3307" ph="/// Removes a single product ... " />
-                <marker date="1541838883500" expanded="true" signature="3531:3879" ph="{...}" />
+                <marker date="1541839295008" expanded="true" signature="6:125" ph="..." />
+                <marker date="1541839295008" expanded="true" signature="163:3841" ph="{...}" />
+                <marker date="1541839295008" expanded="true" signature="269:3839" ph="{...}" />
+                <marker date="1541839295008" expanded="true" signature="453:517" ph="{...}" />
+                <marker date="1541839295008" expanded="true" signature="527:627" ph="/// Select all products ... " />
+                <marker date="1541839295008" expanded="true" signature="767:1023" ph="{...}" />
+                <marker date="1541839295008" expanded="true" signature="897:980" ph="{...}" />
+                <marker date="1541839295008" expanded="true" signature="1033:1175" ph="/// Select a single product ... " />
+                <marker date="1541839295008" expanded="true" signature="1415:1792" ph="{...}" />
+                <marker date="1541839295008" expanded="true" signature="1678:1750" ph="{...}" />
+                <marker date="1541839295008" expanded="true" signature="1802:1950" ph="/// Creates a single product ... " />
+                <marker date="1541839295008" expanded="true" signature="2083:2243" ph="{...}" />
+                <marker date="1541839295008" expanded="true" signature="2253:2439" ph="/// Updates a single product ... " />
+                <marker date="1541839295008" expanded="true" signature="2688:3107" ph="{...}" />
+                <marker date="1541839295008" expanded="true" signature="2980:3065" ph="{...}" />
+                <marker date="1541839295008" expanded="true" signature="3118:3261" ph="/// Removes a single product ... " />
+                <marker date="1541839295008" expanded="true" signature="3485:3833" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -124,7 +124,7 @@
         <entry file="file://$PROJECT_DIR$/NetHttp.WebAPI/Abstractions/IExtremelyDifficultCrudApi.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="361">
-              <caret line="22" column="21" lean-forward="true" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+              <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
               <folding>
                 <marker date="1541839196500" expanded="false" signature="6:90" ph="..." />
                 <marker date="1541839196500" expanded="true" signature="129:653" ph="{...}" />
@@ -169,8 +169,8 @@
         <option value="$PROJECT_DIR$/NetHttp.WebAPI/Controllers/ValuesController.cs" />
         <option value="$PROJECT_DIR$/NetHttp.WebAPI/Abstractions/IGenericCrud.cs" />
         <option value="$PROJECT_DIR$/NetHttp.WebAPI/Startup.cs" />
-        <option value="$PROJECT_DIR$/NetHttp.WebAPI/Controllers/ProductController.cs" />
         <option value="$PROJECT_DIR$/NetHttp.WebAPI/Abstractions/IExtremelyDifficultCrudApi.cs" />
+        <option value="$PROJECT_DIR$/NetHttp.WebAPI/Controllers/ProductController.cs" />
       </list>
     </option>
   </component>
@@ -290,12 +290,12 @@
       <option name="presentableId" value="Default" />
       <updated>1541338157625</updated>
       <workItem from="1541338159412" duration="3566000" />
-      <workItem from="1541835387705" duration="3803000" />
+      <workItem from="1541835387705" duration="5741000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7369000" />
+    <option name="totallyTimeSpent" value="9307000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -307,7 +307,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <frame x="67" y="25" width="1853" height="1055" extended-state="7" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25235197" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -392,10 +392,48 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/NetHttp.WebAPI/Abstractions/IExtremelyDifficultCrudApi.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+          <folding>
+            <marker date="1541839196500" expanded="false" signature="6:90" ph="..." />
+            <marker date="1541839196500" expanded="true" signature="129:653" ph="{...}" />
+            <marker date="1541839196500" expanded="true" signature="223:651" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NetHttp.WebAPI/Controllers/ProductController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1535">
+          <caret line="115" column="36" lean-forward="true" selection-start-line="115" selection-start-column="36" selection-end-line="115" selection-end-column="36" />
+          <folding>
+            <marker date="1541839295008" expanded="true" signature="6:125" ph="..." />
+            <marker date="1541839295008" expanded="true" signature="163:3841" ph="{...}" />
+            <marker date="1541839295008" expanded="true" signature="269:3839" ph="{...}" />
+            <marker date="1541839295008" expanded="true" signature="453:517" ph="{...}" />
+            <marker date="1541839295008" expanded="true" signature="527:627" ph="/// Select all products ... " />
+            <marker date="1541839295008" expanded="true" signature="767:1023" ph="{...}" />
+            <marker date="1541839295008" expanded="true" signature="897:980" ph="{...}" />
+            <marker date="1541839295008" expanded="true" signature="1033:1175" ph="/// Select a single product ... " />
+            <marker date="1541839295008" expanded="true" signature="1415:1792" ph="{...}" />
+            <marker date="1541839295008" expanded="true" signature="1678:1750" ph="{...}" />
+            <marker date="1541839295008" expanded="true" signature="1802:1950" ph="/// Creates a single product ... " />
+            <marker date="1541839295008" expanded="true" signature="2083:2243" ph="{...}" />
+            <marker date="1541839295008" expanded="true" signature="2253:2439" ph="/// Updates a single product ... " />
+            <marker date="1541839295008" expanded="true" signature="2688:3107" ph="{...}" />
+            <marker date="1541839295008" expanded="true" signature="2980:3065" ph="{...}" />
+            <marker date="1541839295008" expanded="true" signature="3118:3261" ph="/// Removes a single product ... " />
+            <marker date="1541839295008" expanded="true" signature="3485:3833" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/NetHttp.WebAPI/Startup.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="365">
-          <caret line="36" column="62" selection-start-line="36" selection-start-column="55" selection-end-line="36" selection-end-column="62" />
+        <state relative-caret-position="327">
+          <caret line="46" column="21" lean-forward="true" selection-start-line="46" selection-start-column="21" selection-end-line="46" selection-end-column="21" />
           <folding>
             <marker date="1541838631993" expanded="true" signature="6:559" ph="..." />
             <marker date="1541838631993" expanded="true" signature="585:2372" ph="{...}" />
@@ -408,44 +446,6 @@
             <marker date="1541838631993" expanded="true" signature="1961:2038" ph="{...}" />
             <marker date="1541838631993" expanded="true" signature="2055:2114" ph="{...}" />
             <marker date="1541838631993" expanded="true" signature="2178:2287" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NetHttp.WebAPI/Abstractions/IExtremelyDifficultCrudApi.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="22" column="21" lean-forward="true" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
-          <folding>
-            <marker date="1541839196500" expanded="false" signature="6:90" ph="..." />
-            <marker date="1541839196500" expanded="true" signature="129:653" ph="{...}" />
-            <marker date="1541839196500" expanded="true" signature="223:651" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NetHttp.WebAPI/Controllers/ProductController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="28" column="31" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
-          <folding>
-            <marker date="1541838883500" expanded="true" signature="6:171" ph="..." />
-            <marker date="1541838883500" expanded="true" signature="209:3887" ph="{...}" />
-            <marker date="1541838883500" expanded="true" signature="315:3885" ph="{...}" />
-            <marker date="1541838883500" expanded="true" signature="499:563" ph="{...}" />
-            <marker date="1541838883500" expanded="true" signature="573:673" ph="/// Select all products ... " />
-            <marker date="1541838883500" expanded="true" signature="813:1069" ph="{...}" />
-            <marker date="1541838883500" expanded="true" signature="943:1026" ph="{...}" />
-            <marker date="1541838883500" expanded="true" signature="1079:1221" ph="/// Select a single product ... " />
-            <marker date="1541838883500" expanded="true" signature="1461:1838" ph="{...}" />
-            <marker date="1541838883500" expanded="true" signature="1724:1796" ph="{...}" />
-            <marker date="1541838883500" expanded="true" signature="1848:1996" ph="/// Creates a single product ... " />
-            <marker date="1541838883500" expanded="true" signature="2129:2289" ph="{...}" />
-            <marker date="1541838883500" expanded="true" signature="2299:2485" ph="/// Updates a single product ... " />
-            <marker date="1541838883500" expanded="true" signature="2734:3153" ph="{...}" />
-            <marker date="1541838883500" expanded="true" signature="3026:3111" ph="{...}" />
-            <marker date="1541838883500" expanded="true" signature="3164:3307" ph="/// Removes a single product ... " />
-            <marker date="1541838883500" expanded="true" signature="3531:3879" ph="{...}" />
           </folding>
         </state>
       </provider>
