@@ -1,0 +1,15 @@
+/home/kenerry/workspace/NetHttp/NetHttp/NetHttp.WebAPI/bin/Debug/netcoreapp2.1/NetHttp.WebAPI.deps.json
+/home/kenerry/workspace/NetHttp/NetHttp/NetHttp.WebAPI/bin/Debug/netcoreapp2.1/NetHttp.WebAPI.runtimeconfig.json
+/home/kenerry/workspace/NetHttp/NetHttp/NetHttp.WebAPI/bin/Debug/netcoreapp2.1/NetHttp.WebAPI.runtimeconfig.dev.json
+/home/kenerry/workspace/NetHttp/NetHttp/NetHttp.WebAPI/bin/Debug/netcoreapp2.1/NetHttp.WebAPI.dll
+/home/kenerry/workspace/NetHttp/NetHttp/NetHttp.WebAPI/bin/Debug/netcoreapp2.1/NetHttp.WebAPI.pdb
+/home/kenerry/workspace/NetHttp/NetHttp/NetHttp.WebAPI/obj/Debug/netcoreapp2.1/NetHttp.WebAPI.csprojAssemblyReference.cache
+/home/kenerry/workspace/NetHttp/NetHttp/NetHttp.WebAPI/obj/Debug/netcoreapp2.1/NetHttp.WebAPI.csproj.CoreCompileInputs.cache
+/home/kenerry/workspace/NetHttp/NetHttp/NetHttp.WebAPI/obj/Debug/netcoreapp2.1/NetHttp.WebAPI.RazorAssemblyInfo.cache
+/home/kenerry/workspace/NetHttp/NetHttp/NetHttp.WebAPI/obj/Debug/netcoreapp2.1/NetHttp.WebAPI.RazorAssemblyInfo.cs
+/home/kenerry/workspace/NetHttp/NetHttp/NetHttp.WebAPI/obj/Debug/netcoreapp2.1/NetHttp.WebAPI.AssemblyInfoInputs.cache
+/home/kenerry/workspace/NetHttp/NetHttp/NetHttp.WebAPI/obj/Debug/netcoreapp2.1/NetHttp.WebAPI.AssemblyInfo.cs
+/home/kenerry/workspace/NetHttp/NetHttp/NetHttp.WebAPI/obj/Debug/netcoreapp2.1/NetHttp.WebAPI.RazorTargetAssemblyInfo.cache
+/home/kenerry/workspace/NetHttp/NetHttp/NetHttp.WebAPI/obj/Debug/netcoreapp2.1/NetHttp.WebAPI.dll
+/home/kenerry/workspace/NetHttp/NetHttp/NetHttp.WebAPI/obj/Debug/netcoreapp2.1/NetHttp.WebAPI.pdb
+/home/kenerry/workspace/NetHttp/NetHttp/NetHttp.WebAPI/bin/Debug/netcoreapp2.1/NetHttp.WebAPI.xml

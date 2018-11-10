@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2735e529-53a7-43e5-9dcf-ded494a6a052" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.NetHttp/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NetHttp.WebAPI/Abstractions/IExtremelyDifficultCrudApi.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NetHttp.WebAPI/Models/Product.cs" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="748407392">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.25" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cs" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="1221" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="1221" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NetHttp.WebAPI/Startup.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="365">
+              <caret line="36" column="62" selection-start-line="36" selection-start-column="55" selection-end-line="36" selection-end-column="62" />
+              <folding>
+                <marker date="1541838631993" expanded="true" signature="6:559" ph="..." />
+                <marker date="1541838631993" expanded="true" signature="585:2372" ph="{...}" />
+                <marker date="1541838631993" expanded="true" signature="612:2370" ph="{...}" />
+                <marker date="1541838631993" expanded="true" signature="671:734" ph="{...}" />
+                <marker date="1541838631993" expanded="true" signature="957:1726" ph="{...}" />
+                <marker date="1541838631993" expanded="true" signature="1096:1425" ph="{...}" />
+                <marker date="1541838631993" expanded="true" signature="1484:1598" ph="{...}" />
+                <marker date="1541838631993" expanded="true" signature="1914:2364" ph="{...}" />
+                <marker date="1541838631993" expanded="true" signature="1961:2038" ph="{...}" />
+                <marker date="1541838631993" expanded="true" signature="2055:2114" ph="{...}" />
+                <marker date="1541838631993" expanded="true" signature="2178:2287" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NetHttp.WebAPI/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+              <folding>
+                <marker date="1541339239144" expanded="false" signature="6:255" ph="..." />
+                <marker date="1541339239144" expanded="true" signature="281:658" ph="{...}" />
+                <marker date="1541339239144" expanded="true" signature="308:656" ph="{...}" />
+                <marker date="1541339239144" expanded="true" signature="361:435" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/NetHttp.WebAPI/Controllers/ProductController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="262">
+              <caret line="28" column="31" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
+              <folding>
+                <marker date="1541838883500" expanded="true" signature="6:171" ph="..." />
+                <marker date="1541838883500" expanded="true" signature="209:3887" ph="{...}" />
+                <marker date="1541838883500" expanded="true" signature="315:3885" ph="{...}" />
+                <marker date="1541838883500" expanded="true" signature="499:563" ph="{...}" />
+                <marker date="1541838883500" expanded="true" signature="573:673" ph="/// Select all products ... " />
+                <marker date="1541838883500" expanded="true" signature="813:1069" ph="{...}" />
+                <marker date="1541838883500" expanded="true" signature="943:1026" ph="{...}" />
+                <marker date="1541838883500" expanded="true" signature="1079:1221" ph="/// Select a single product ... " />
+                <marker date="1541838883500" expanded="true" signature="1461:1838" ph="{...}" />
+                <marker date="1541838883500" expanded="true" signature="1724:1796" ph="{...}" />
+                <marker date="1541838883500" expanded="true" signature="1848:1996" ph="/// Creates a single product ... " />
+                <marker date="1541838883500" expanded="true" signature="2129:2289" ph="{...}" />
+                <marker date="1541838883500" expanded="true" signature="2299:2485" ph="/// Updates a single product ... " />
+                <marker date="1541838883500" expanded="true" signature="2734:3153" ph="{...}" />
+                <marker date="1541838883500" expanded="true" signature="3026:3111" ph="{...}" />
+                <marker date="1541838883500" expanded="true" signature="3164:3307" ph="/// Removes a single product ... " />
+                <marker date="1541838883500" expanded="true" signature="3531:3879" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/1603362F-93F2-40BB-A83F-C85D26693065/5/ApiResponse.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="35" column="30" selection-start-line="35" selection-start-column="30" selection-end-line="35" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NetHttp.WebAPI/Abstractions/IExtremelyDifficultCrudApi.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="22" column="21" lean-forward="true" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+              <folding>
+                <marker date="1541839196500" expanded="false" signature="6:90" ph="..." />
+                <marker date="1541839196500" expanded="true" signature="129:653" ph="{...}" />
+                <marker date="1541839196500" expanded="true" signature="223:651" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NetHttp.WebAPI/Models/Product.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+              <folding>
+                <marker date="1541835800049" expanded="true" signature="31:152" ph="{...}" />
+                <marker date="1541835800049" expanded="true" signature="58:150" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/NetHttp.WebAPI/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/1603362F-93F2-40BB-A83F-C85D26693065/5/ApiResponse.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/NetHttp.WebAPI/Abstractions/IExtremelyDifficultCrudApi.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/NetHttp.WebAPI/Models/Product.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/NetHttp.WebAPI/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/NetHttp.WebAPI/Controllers/ProductController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/NetHttp.WebAPI/obj/Debug/netcoreapp2.1/RefitStubs.g.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/NetHttp.WebAPI/Program.cs" />
+        <option value="$PROJECT_DIR$/NetHttp.WebAPI/Models/Product.cs" />
+        <option value="$PROJECT_DIR$/NetHttp.WebAPI/Controllers/ValuesController.cs" />
+        <option value="$PROJECT_DIR$/NetHttp.WebAPI/Abstractions/IGenericCrud.cs" />
+        <option value="$PROJECT_DIR$/NetHttp.WebAPI/Startup.cs" />
+        <option value="$PROJECT_DIR$/NetHttp.WebAPI/Controllers/ProductController.cs" />
+        <option value="$PROJECT_DIR$/NetHttp.WebAPI/Abstractions/IExtremelyDifficultCrudApi.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="67" />
+    <option name="y" value="25" />
+    <option name="width" value="927" />
+    <option name="height" value="1055" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="NetHttp" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="NetHttp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="NetHttp.WebAPI" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="NetHttp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="NetHttp.WebAPI" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Abstractions" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="NetHttp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="NetHttp.WebAPI" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Controllers" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="NetHttp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="NetHttp.WebAPI" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Models" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Patterns/Patterns.sln" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/NetHttp.WebAPI/bin/Debug/netcoreapp2.1/NetHttp.WebAPI.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NetHttp.WebAPI" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="https://localhost:5001;http://localhost:5000" />
+      </envs>
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/NetHttp.WebAPI/NetHttp.WebAPI.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.1" />
+      <browser start="true" url="https://localhost:5001" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2735e529-53a7-43e5-9dcf-ded494a6a052" name="Default Changelist" comment="" />
+      <created>1541338157625</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541338157625</updated>
+      <workItem from="1541338159412" duration="3566000" />
+      <workItem from="1541835387705" duration="3803000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7369000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25235197" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="REST Client" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.32972974" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="14" weight="0.32972974" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/NetHttp.WebAPI/Models/Product.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+          <folding>
+            <marker date="1541835800049" expanded="true" signature="31:152" ph="{...}" />
+            <marker date="1541835800049" expanded="true" signature="58:150" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NetHttp.WebAPI/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+          <folding>
+            <marker date="1541339239144" expanded="false" signature="6:255" ph="..." />
+            <marker date="1541339239144" expanded="true" signature="281:658" ph="{...}" />
+            <marker date="1541339239144" expanded="true" signature="308:656" ph="{...}" />
+            <marker date="1541339239144" expanded="true" signature="361:435" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/1603362F-93F2-40BB-A83F-C85D26693065/5/ApiResponse.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="35" column="30" selection-start-line="35" selection-start-column="30" selection-end-line="35" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NetHttp.WebAPI/obj/Debug/netcoreapp2.1/RefitStubs.g.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="89" column="28" selection-start-line="89" selection-start-column="28" selection-end-line="89" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NetHttp.WebAPI/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="36" column="62" selection-start-line="36" selection-start-column="55" selection-end-line="36" selection-end-column="62" />
+          <folding>
+            <marker date="1541838631993" expanded="true" signature="6:559" ph="..." />
+            <marker date="1541838631993" expanded="true" signature="585:2372" ph="{...}" />
+            <marker date="1541838631993" expanded="true" signature="612:2370" ph="{...}" />
+            <marker date="1541838631993" expanded="true" signature="671:734" ph="{...}" />
+            <marker date="1541838631993" expanded="true" signature="957:1726" ph="{...}" />
+            <marker date="1541838631993" expanded="true" signature="1096:1425" ph="{...}" />
+            <marker date="1541838631993" expanded="true" signature="1484:1598" ph="{...}" />
+            <marker date="1541838631993" expanded="true" signature="1914:2364" ph="{...}" />
+            <marker date="1541838631993" expanded="true" signature="1961:2038" ph="{...}" />
+            <marker date="1541838631993" expanded="true" signature="2055:2114" ph="{...}" />
+            <marker date="1541838631993" expanded="true" signature="2178:2287" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NetHttp.WebAPI/Abstractions/IExtremelyDifficultCrudApi.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="22" column="21" lean-forward="true" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+          <folding>
+            <marker date="1541839196500" expanded="false" signature="6:90" ph="..." />
+            <marker date="1541839196500" expanded="true" signature="129:653" ph="{...}" />
+            <marker date="1541839196500" expanded="true" signature="223:651" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NetHttp.WebAPI/Controllers/ProductController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="28" column="31" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
+          <folding>
+            <marker date="1541838883500" expanded="true" signature="6:171" ph="..." />
+            <marker date="1541838883500" expanded="true" signature="209:3887" ph="{...}" />
+            <marker date="1541838883500" expanded="true" signature="315:3885" ph="{...}" />
+            <marker date="1541838883500" expanded="true" signature="499:563" ph="{...}" />
+            <marker date="1541838883500" expanded="true" signature="573:673" ph="/// Select all products ... " />
+            <marker date="1541838883500" expanded="true" signature="813:1069" ph="{...}" />
+            <marker date="1541838883500" expanded="true" signature="943:1026" ph="{...}" />
+            <marker date="1541838883500" expanded="true" signature="1079:1221" ph="/// Select a single product ... " />
+            <marker date="1541838883500" expanded="true" signature="1461:1838" ph="{...}" />
+            <marker date="1541838883500" expanded="true" signature="1724:1796" ph="{...}" />
+            <marker date="1541838883500" expanded="true" signature="1848:1996" ph="/// Creates a single product ... " />
+            <marker date="1541838883500" expanded="true" signature="2129:2289" ph="{...}" />
+            <marker date="1541838883500" expanded="true" signature="2299:2485" ph="/// Updates a single product ... " />
+            <marker date="1541838883500" expanded="true" signature="2734:3153" ph="{...}" />
+            <marker date="1541838883500" expanded="true" signature="3026:3111" ph="{...}" />
+            <marker date="1541838883500" expanded="true" signature="3164:3307" ph="/// Removes a single product ... " />
+            <marker date="1541838883500" expanded="true" signature="3531:3879" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
